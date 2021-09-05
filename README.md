@@ -2,6 +2,12 @@
 
 MSC 2021 Recruitment
 
+## Clone Repo
+
+```
+git clone https://github.com/MSC2021-Recruitment/Frontend MSC2021
+```
+
 ## Install the dependencies
 ```bash
 yarn
